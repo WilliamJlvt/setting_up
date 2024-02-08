@@ -64,8 +64,8 @@ o....o$
 | Data structure | 6/6    | 100%    |
 | Optimization   | 16/16  | 100%    |
 | Parsing        | 3/3    | 100%    |
-| Robustness     | 25/28  | 89.3    |
-| Total          | 78/81  | 96.3    |
+| Robustness     | 25/28  | 89.3%   |
+| Total          | 78/81  | 96.3%   |
 
 ## Coding style
 All the source code has been written according to the [Epitech C Coding Style](https://williamjlvt.github.io/assets/coding_style/epitech_c_coding_style.pdf).
